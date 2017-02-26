@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"693ZZ";"";
+"TraceParts.PartVersion";"1.2.9";"";
+"SUPPLIER";"NSK";"";
+"MASS";"0.83";"g";
+"TraceParts.PartNumber";"10-12082013-095504";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"Single row ball bearings - Miniature - Shielded - 693ZZ";"";
+"TraceParts.InstanceId";"10-12082013-09550472NT1O7E54NRLQ74SPYM025UV";"";
+"TraceParts.PartTitle";"Single row ball bearings - Miniature - Shielded (ZZ)";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"NSK:/F_NSK/NSK.010/NSK.010.050/10-12082013-095504";"";
+"TraceParts.PartStatus";"Published";"";
